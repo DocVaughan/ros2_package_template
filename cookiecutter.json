@@ -1,6 +1,8 @@
 {
   "project_name": "my_project",
   "class_name": "MyClass",
+  "python_module_name": "my_python_module",
+  "python_node_name": "python_node",
   "ros2_version": "rolling",
   "project_short_description": "TODO: Project Short Description",
   "author": "John Doe",
